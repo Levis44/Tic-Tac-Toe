@@ -32,7 +32,7 @@ function handleClick(event) {
 }
 
 function quemGanhou() {
-    if (playerTime == 1) {
+    if (playerTime == 0) {
         ganhador = 'O'
     } else {
         ganhador = 'X'

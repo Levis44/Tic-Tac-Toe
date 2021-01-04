@@ -29,19 +29,18 @@ function handleMove(position) {
         velha = empatou();
 
         if (venceu == false){
-        playerTime = playerTime == 0 ? 1 : 0;
+            playerTime = playerTime == 0 ? 1 : 0;
         }
     }
 
     if(venceu) {
         ganhou = 'ganhou';
-        return ganhou 
+        return ganhou;
     } else if (velha) {
         deuVelha = 'deuVelha'
-        return deuVelha
+        return deuVelha;
     }
-
-    console.log(playerTime)
+    return false;
 
 }
 
