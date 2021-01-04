@@ -28,8 +28,9 @@ function handleMove(position) {
         venceu = isWin();
         velha = empatou();
 
+        if (venceu == false){
         playerTime = playerTime == 0 ? 1 : 0;
-
+        }
     }
 
     if(venceu) {
