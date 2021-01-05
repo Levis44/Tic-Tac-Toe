@@ -49,6 +49,7 @@ function updateSquare(position) {
  function resetGame() {
     reset.classList.add("none")
     div.classList.add("none")
+    
     let squares = document.querySelectorAll(".square");
 
     squares.forEach((square) => {
