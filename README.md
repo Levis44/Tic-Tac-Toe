@@ -15,6 +15,7 @@
 - HTML
 - CSS
 - JS
+- MVC (Model View Controler)
 
 ## 👨‍💻 How to Setup
 
