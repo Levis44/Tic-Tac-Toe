@@ -1,9 +1,7 @@
-# Tic-Tac-Toe 🚀
+# Tic-Tac-Toe  <img width="30px" align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/257/number-sign_23.png"/>
 
 <h1 align="center">
-  <img 
-    src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/257/number-sign_23.png"
-  />
+  
 
 </h1>
 
