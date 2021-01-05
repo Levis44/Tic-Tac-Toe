@@ -30,8 +30,6 @@ function handleMove(position) {
 
         if (venceu == false){
             playerTime = playerTime == 0 ? 1 : 0;
-        }else {
-            return
         }
     }
 
@@ -42,7 +40,8 @@ function handleMove(position) {
         deuVelha = 'deuVelha'
         return deuVelha;
     }
-    return false;
+
+    return venceu;
 
 }
 
